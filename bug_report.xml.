@@ -1,0 +1,7 @@
+<Bug-report>
+  <title>Submit button is not working</title>
+  <priority>ciritcal</priority>
+  <spteps-to-reproduce>TBD</spteps-to-reproduce>
+  <expected-result>Button should be active</expected-result>
+  <actual-result>Button is grayed out</actual-result>
+</Bug-report>
