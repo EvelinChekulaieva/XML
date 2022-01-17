@@ -1,0 +1,8 @@
+<Person>
+    <name>Evelin</name>
+    <lastName>Chekulaieva</lastName>
+    <patronymic>Albertovna</patronymic>
+    <age>29</age>
+    <petCount>0</petCount>
+    <desiredSalary>5000</desiredSalary>
+</Person>
